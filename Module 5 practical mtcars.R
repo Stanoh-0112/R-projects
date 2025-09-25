@@ -95,7 +95,8 @@ library(skimr)
 skim(mtcars)
 #p0 and p100 → tell you the range (min and max).
 
-#25, p50, p75 → describe the distribution’s shape and central tendency.
+#25, p50, p75 → describe the distribution’s shape and central tendency
+
 
 
 
